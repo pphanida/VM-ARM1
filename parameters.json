@@ -113,7 +113,7 @@
             "value": "Ashwin"
         },
         "adminPassword": {
-            "value": null
+            "value": "Password@12345"
         },
         "diagnosticsStorageAccountName": {
             "value": "azautopocdiag325"
